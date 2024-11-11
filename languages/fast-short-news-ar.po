@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Short News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-15 13:54+0000\n"
+"PO-Revision-Date: 2024-10-23 10:15+0000\n"
+"Last-Translator: Shola Tawil\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: fast-short-news"
+
+#. Description of the plugin
+msgid "A WordPress plugin for managing and displaying short news posts."
+msgstr "إضافة ووردبريس لإدارة وعرض منشورات الأخبار القصيرة."
+
+#: fast-short-news.php:110
+msgid "Content"
+msgstr "المحتوى"
+
+#: fast-short-news.php:93
+msgid "No short news posts found."
+msgstr "لا يوجد أخبار قصيرة"
+
+#. Name of the plugin
+#: fast-short-news.php:19 fast-short-news.php:20
+msgid "Short News"
+msgstr "أخبار قصيرة"
+
+#. Author of the plugin
+msgid "Your Name"
+msgstr " codnloc"
